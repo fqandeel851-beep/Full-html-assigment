@@ -1,0 +1,101 @@
+@font-face{
+    font-family: nav;
+    src: url("fonts/Newsreader-Italic-VariableFont_opsz\,wght.ttf");
+}
+/* ________________________________________Section_1 */
+.link{
+    text-decoration: none;
+    color: black;
+}
+.link:hover{
+   color:#B58966;
+    font-weight: bold;
+}
+.color{
+    color:#BB8D6B ;
+}
+.butbg{
+    background:black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.butbg:hover{
+   background-color: aliceblue;
+   color: black;
+   font-family: 'Times New Roman', Times, serif;
+   font-style: oblique;
+}
+.font{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.colorh{
+color:#B58966 ;
+}
+.para1{
+    font-weight: lighter;
+    font-size: medium;
+}
+.bgn{
+    background-color: white;
+    color: black;
+}
+/* ____________________Section1-lastwords */
+
+.last{
+  word-spacing: 40px;
+ font-size: medium;
+}
+.tbg{
+    background-color: black;
+}
+
+td>h3{
+    color:#B68E74 ;
+}
+h3+p{
+    color: white;
+}
+________________________________Section2-Styling_Start
+.align{
+    text-align: right;
+}
+/* ______________________________Section3 */
+#font_s{
+    font-size: 30px;
+}
+.colorbg{
+    background-color: black;
+    color: white;
+}
+.card_1{
+     text-shadow: 3px 3px 4px #F0E1D5;
+   color: #4A2F24; 
+}
+.card_2{
+     text-shadow: 3px 3px 4px #F0E1D5;
+    color: #4A2F24;
+}
+.card_3{
+
+ text-shadow: 3px 3px 4px #f8f1ec;
+    color:#4A2F24 ;
+}
+.card_4{
+   color:#4A2F24; 
+    text-shadow: 3px 3px 4px #F0E1D5;
+} 
+/* ____________________________Section4 */
+/* Same class alreadywe use in sec_1 button */
+#up{
+ text-transform: capitalize;
+ color: #8F7866;
+}
+.last_bt{
+    background-color:black;
+    color: white;
+    
+}
+.last_btn{
+    background-color: white;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
